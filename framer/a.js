@@ -93,7 +93,7 @@ updatesScroll = new ScrollComponent({
 
 tabBar = new tabBarModule.tabBar({
   "详情": {
-    icon: "https://xiaomaiww.github.io/framer/a/Tab/featured-icon@2x.png",
+    icon: "./a/Tab/featured-icon@2x.png",
     selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/featured-selected@2x.png",
     view: featuredScroll
   },
