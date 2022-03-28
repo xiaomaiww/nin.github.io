@@ -93,28 +93,28 @@ updatesScroll = new ScrollComponent({
 
 tabBar = new tabBarModule.tabBar({
   "详情": {
-    icon: "./a/Tab/featured-icon@2x.png",
-    selectedIcon: "./a/Tab/featured-selected@2x.png",
+    icon: "https://xiaomaiww.github.io/framer/a/Tab/featured-icon@2x.png",
+    selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/featured-selected@2x.png",
     view: featuredScroll
   },
   "主图": {
-    icon: "./a/Tab/topcharts-icon@2x.png",
-    selectedIcon: "./a/Tab/topcharts-selected@2x.png",
+    icon: "https://xiaomaiww.github.io/framer/a/Tab/topcharts-icon@2x.png",
+    selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/topcharts-selected@2x.png",
     view: topChartsScroll
   },
   "入口图": {
-    icon: "./a/Tab/topcharts-icon@2x.png",
-    selectedIcon: "./a/Tab/topcharts-selected@2x.png",
+    icon: "https://xiaomaiww.github.io/framer/a/Tab/topcharts-icon@2x.png",
+    selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/topcharts-selected@2x.png",
     view: exploreScroll
   },
   Search: {
-    icon: "./a/Tab/search-icon@2x.png",
-    selectedIcon: "./a/Tab/search-selected@2x.png",
+    icon: "https://xiaomaiww.github.io/framer/a/Tab/search-icon@2x.png",
+    selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/search-selected@2x.png",
     view: searchScroll
   },
   Updates: {
-    icon: "./a/Tab/updates-icon@2x.png",
-    selectedIcon: "./a/Tab/updates-selected@2x.png",
+    icon: "https://xiaomaiww.github.io/framer/a/Tab/updates-icon@2x.png",
+    selectedIcon: "https://xiaomaiww.github.io/framer/a/Tab/updates-selected@2x.png",
     view: updatesScroll
   }
 });
