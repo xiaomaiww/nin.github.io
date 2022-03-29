@@ -65,6 +65,7 @@ topChartsScroll = new ScrollComponent({
   superLayer: home1,
   width: 360,
   height: 640,
+  backgroundColor: '#F0F0F0 ',
   scrollHorizontal: false
 });
 
@@ -72,7 +73,7 @@ exploreScroll = new ScrollComponent({
   superLayer: home1,
   width: 360,
   height: 640,
-  backgroundColor: '#fff',
+  backgroundColor: '#F0F0F0',
   scrollHorizontal: false
 });
 
