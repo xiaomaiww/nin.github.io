@@ -1091,7 +1091,7 @@ var defaults, getItemFromName, setBadgeValue, setSelected, updateViews;
 
 defaults = {
   screenWidth: 360,
-  screenHeight: 640,
+  screenHeight: 675,
   barHeight: 50,
   labelOffset: -22,   //文字的到底的高
   iconOffset: -7,   //图到底的高
