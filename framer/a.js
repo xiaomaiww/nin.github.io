@@ -150,7 +150,7 @@ page = new PageComponent({
   width: 360,
   height: 675,
   scrollVertical: false,
-  backgroundColor: "#fff",
+  backgroundColor: "#F0F0F0",
   	superLayer: topChartsScroll 
 });
  
